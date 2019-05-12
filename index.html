@@ -21,20 +21,33 @@
 
 <body id="page-top">
 
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+    </div>
+  </nav>
+
   <header class="bg-primary2 text-white">
     <div class="container text-center">
-      <h1>    </h1>
+      <p>    </p>
     </div>
   </header>
 
   <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-              <img src= "images/bringmeyourtiredyourweakyourhungry.png" width = "150" class = "center">
-              <h1>Who was impacted by the change?</h1>
+              <h1>Refugee Resettlement in the United States</h1>
+              <h2>Effects of Trump-era policies on refugees from Muslim Majority Countries</h2>
         </div>
       </div>
     </div>
+
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+                <img src= "images/bringmeyourtiredyourweakyourhungry.png" width = "150" class = "center">
+          </div>
+        </div>
+      </div>
 
   <section id="countries">
     <div class="container">
@@ -58,52 +71,30 @@
     </div>
   </section>
 
-  <div id="toolbar" style="text-align:center;">
-    <button href="#vis" id="all" class="button active">All</button>
-    <button href="#vis" id="year" class="button">by Year</button>
-  </div>
-
-  <div id="vis" style="text-align:center;">
-    <p>Country of Origin</p>
-    <table>
-      <tr>
-        <th class="green-dot"></th>
-        <td>Muslim-Majority</td	>
-      </tr>
-      <tr>
-        <th class="grey-dot"></th>
-        <td>Non-Muslim-Majority</td>
-      </tr>
-    </table>
-  </div>
-
-  <div class="container">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-              <img src= "images/bringmeyourtiredyourweakyourhungry.png" width = "150" class = "center">
-              <h1>Who was impacted by the change?</h1>
-        </div>
-      </div>
-    </div>
-
-
-  <section id="services" class="bg-light">
+  <section id="visualization_bubbles">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2>Services we offer</h2>
-          <p class="lead">Misinformation has driven many negative conceptions about refugees, particularly those coming from Muslim-majority nations. However, emerging research is disproving these myths. A recent report from Stanford University’s Immigration Policy Lab indicates that reducing the number of refugees in a community does not reduce the crime rate. Research from the Center for American Progress find that refugees quickly become self-sufficient and, in the long-run, become well-integrated into society, having similar rates of labor force participation, wages and business ownership as their U.S. born neighbors. Rather than being a financial burden to the U.S., research found that between 2005 and 2013 refugees and asylees contributed $63 billion more in taxes than they used in public services.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+        <div class="col-lg-8 mx-auto">  
+          
+          <div id="toolbar" style="text-align:center;">
+            <button href="#vis" id="all" class="button active">All</button>
+            <button href="#vis" id="year" class="button">by Year</button>
+          </div>
 
-  <section id="contact">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2>You can help</h2>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+          <div id="vis" style="text-align:center;">
+            <p>Country of Origin</p>
+            <table>
+              <tr>
+                <th class="green-dot"></th>
+                <td>Muslim-Majority</td	>
+              </tr>
+              <tr>
+                <th class="grey-dot"></th>
+                <td>Non-Muslim-Majority</td>
+              </tr>
+            </table>
+
+          </div>
         </div>
       </div>
     </div>
@@ -119,12 +110,11 @@
 
 
   <!-- Footer -->
-  <footer class="py-5 bg-dark">
-    <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
-    </div>
-    <!-- /.container -->
-  </footer>
+    <footer class="py-3 bg-dark">
+        <div class="container">
+          <p class="m-0 text-center text-white">A project by Carl Hedman, Lenna Johnsen, and Marisa Prasse</p>
+        </div>
+      </footer>
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>

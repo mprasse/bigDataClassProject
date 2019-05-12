@@ -1,0 +1,356 @@
+id,fy,nationality,resettled,jrank,mm
+1,2014,Iraq,19769,1,1
+2,2014,Burma,14598,2,0
+3,2014,Somalia,9000,3,1
+4,2014,Bhutan,8434,4,0
+5,2014,Dem. Rep. Congo,4540,5,0
+6,2014,Cuba,4062,6,0
+7,2014,Iran,2846,7,1
+8,2014,Eritrea,1488,8,0
+9,2014,Sudan,1315,9,1
+10,2014,Afghanistan,753,10,1
+11,2014,Ethiopia,728,11,0
+12,2014,Ukraine,490,12,0
+13,2014,Colombia,252,13,0
+14,2014,Pakistan,240,14,1
+15,2014,Moldova,142,15,0
+16,2014,Palestine,141,16,1
+17,2014,Russia,139,17,0
+18,2014,Syria,105,18,1
+19,2014,Vietnam,79,19,0
+20,2014,Uzbekistan,69,20,1
+21,2014,Burundi,68,21,0
+22,2014,Republic of South Sudan,57,22,0
+23,2014,Sri Lanka (Ceylon),57,22,0
+24,2014,China,53,24,0
+25,2014,Nepal,47,25,0
+26,2014,Belarus,46,26,0
+27,2014,Rwanda,45,27,0
+28,2014,Cambodia,44,28,0
+29,2014,Ivory Coast,42,29,0
+30,2014,Liberia,31,30,0
+31,2014,Congo,30,31,0
+32,2014,Togo,26,32,0
+33,2014,Central African Republic,25,33,0
+34,2014,Kazakhstan,24,34,1
+35,2014,Egypt,21,35,1
+36,2014,Kenya,21,35,0
+37,2014,Chad,21,35,1
+38,2014,Azerbaijan,15,38,1
+39,2014,Georgia,13,39,0
+40,2014,Kuwait,12,40,1
+41,2014,Armenia,10,41,0
+42,2014,Guinea,9,42,0
+43,2014,Kyrgyzstan,8,43,1
+44,2014,"Korea, North",8,43,0
+45,2014,India,7,45,0
+46,2014,Jordan,7,45,1
+47,2014,Sierra Leone,6,47,1
+48,2014,Cameroon,5,48,0
+49,2014,Uganda,5,48,0
+50,2014,Nigeria,4,50,1
+51,2014,Haiti,4,50,0
+52,2014,Mauritania,4,50,1
+53,2014,Yemen,3,53,1
+54,2014,Tunisia,2,54,1
+55,2014,Turkmenistan,2,54,1
+56,2014,Mali,2,54,1
+57,2014,Bangladesh,2,54,1
+58,2014,Algeria,2,54,1
+59,2014,Philippines,1,59,0
+60,2014,Saudi Arabia,1,59,1
+61,2014,Zimbabwe,1,59,0
+62,2014,Gambia,1,59,1
+63,2014,United Kingdom,1,59,0
+64,2014,Tanzania,1,59,0
+65,2014,Lebanon,1,59,1
+66,2014,Indonesia,1,59,1
+67,2014,Gabon,1,59,0
+68,2015,Burma,18386,1,0
+69,2015,Iraq,12676,2,1
+70,2015,Somalia,8858,3,1
+71,2015,Dem. Rep. Congo,7876,4,0
+72,2015,Bhutan,5775,5,0
+73,2015,Iran,3109,6,1
+74,2015,Syria,1682,7,1
+75,2015,Eritrea,1596,8,0
+76,2015,Sudan,1578,9,1
+77,2015,Cuba,1527,10,0
+78,2015,Ukraine,1451,11,0
+79,2015,Burundi,1186,12,0
+80,2015,Afghanistan,910,13,1
+81,2015,Ethiopia,626,14,0
+82,2015,Colombia,521,15,0
+83,2015,Moldova,333,16,0
+84,2015,Russia,281,17,0
+85,2015,Central African Republic,270,18,0
+86,2015,Rwanda,173,19,0
+87,2015,Pakistan,159,20,1
+88,2015,Palestine,99,21,1
+89,2015,Belarus,98,22,0
+90,2015,Sri Lanka (Ceylon),89,23,0
+91,2015,Republic of South Sudan,79,24,0
+92,2015,Uganda,67,25,0
+93,2015,Kazakhstan,58,26,1
+94,2015,Congo,52,27,0
+95,2015,Armenia,49,28,0
+96,2015,Uzbekistan,43,29,1
+97,2015,Vietnam,35,30,0
+98,2015,China,30,31,0
+99,2015,Ivory Coast,28,32,0
+100,2015,Nepal,26,33,0
+101,2015,Azerbaijan,18,34,1
+102,2015,Kyrgyzstan,17,35,1
+103,2015,Chad,16,36,1
+104,2015,Yemen,16,36,1
+105,2015,"Korea, North",15,38,0
+106,2015,Egypt,13,39,1
+107,2015,Liberia,12,40,0
+108,2015,Georgia,9,41,0
+109,2015,Cameroon,8,42,0
+110,2015,Zimbabwe,7,43,0
+111,2015,Tunisia,7,43,1
+112,2015,Sierra Leone,6,45,1
+113,2015,Angola,5,46,0
+114,2015,Turkmenistan,5,46,1
+115,2015,Senegal,4,48,1
+116,2015,Mali,4,48,1
+117,2015,Kuwait,4,48,1
+118,2015,Nigeria,4,48,1
+119,2015,Saudi Arabia,3,52,1
+120,2015,Indonesia,3,52,1
+121,2015,Kenya,3,52,0
+122,2015,Gambia,3,52,1
+123,2015,Guinea,3,52,0
+124,2015,Bangladesh,3,52,1
+125,2015,Lebanon,3,52,1
+126,2015,Jordan,2,59,1
+127,2015,Turkey,2,59,1
+128,2015,Djibouti,2,59,1
+129,2015,South Africa,2,59,0
+130,2015,Equatorial Guinea,2,59,0
+131,2015,India,1,64,0
+132,2015,Togo,1,64,0
+133,2015,Netherlands,1,64,0
+134,2015,Jamaica,1,64,0
+135,2015,Ecuador,1,64,0
+136,2015,Namibia,1,64,0
+137,2016,Dem. Rep. Congo,16370,1,0
+138,2016,Syria,12587,2,1
+139,2016,Burma,12347,3,0
+140,2016,Iraq,9880,4,1
+141,2016,Somalia,9020,5,1
+142,2016,Bhutan,5817,6,0
+143,2016,Iran,3750,7,1
+144,2016,Afghanistan,2737,8,1
+145,2016,Ukraine,2543,9,0
+146,2016,Eritrea,1949,10,0
+147,2016,Sudan,1458,11,1
+148,2016,Ethiopia,1131,12,0
+149,2016,Burundi,694,13,0
+150,2016,Pakistan,545,14,1
+151,2016,Colombia,529,15,0
+152,2016,Moldova,465,16,0
+153,2016,Russia,462,17,0
+154,2016,Central African Republic,401,18,0
+155,2016,El Salvador,364,19,0
+156,2016,Cuba,354,20,0
+157,2016,Republic of South Sudan,189,21,0
+158,2016,Belarus,185,22,0
+159,2016,Rwanda,140,23,0
+160,2016,Sri Lanka (Ceylon),91,24,0
+161,2016,Kazakhstan,91,24,1
+162,2016,Honduras,84,26,0
+163,2016,Ivory Coast,79,27,0
+164,2016,Uganda,65,28,0
+165,2016,Vietnam,58,29,0
+166,2016,China,57,30,0
+167,2016,Armenia,55,31,0
+168,2016,Palestine,50,32,1
+169,2016,Uzbekistan,41,33,1
+170,2016,Kyrgyzstan,40,34,1
+171,2016,Nepal,33,35,0
+172,2016,Azerbaijan,32,36,1
+173,2016,Yemen,26,37,1
+174,2016,Egypt,21,38,1
+175,2016,Togo,19,39,0
+176,2016,Cambodia,18,40,0
+177,2016,Tajikistan,17,41,1
+178,2016,Senegal,16,42,1
+179,2016,Congo,16,42,0
+180,2016,Liberia,16,42,0
+181,2016,Georgia,16,42,0
+182,2016,"Korea, North",14,46,0
+183,2016,Cameroon,14,46,0
+184,2016,Zimbabwe,11,48,0
+185,2016,Guatemala,8,49,0
+186,2016,Indonesia,7,50,1
+187,2016,Nigeria,7,50,1
+188,2016,Laos,7,50,0
+189,2016,Kenya,6,53,0
+190,2016,Mali,6,53,1
+191,2016,Jordan,6,53,1
+192,2016,Thailand,5,56,0
+193,2016,Guinea,5,56,0
+194,2016,India,4,58,0
+195,2016,Malaysia,4,58,1
+196,2016,Croatia,3,60,0
+197,2016,Sierra Leone,3,60,1
+198,2016,Angola,3,60,0
+199,2016,Chad,2,63,1
+200,2016,Norway,2,63,0
+201,2016,Gabon,2,63,0
+202,2016,Belgium,2,63,0
+203,2016,Saudi Arabia,2,63,1
+204,2016,Kuwait,2,63,1
+205,2016,Sweden,2,63,0
+206,2016,Tunisia,1,70,1
+207,2016,Tanzania,1,70,0
+208,2016,Tibet,1,70,0
+209,2016,Libya,1,70,1
+210,2016,United Arab Emirates,1,70,1
+211,2016,Bangladesh,1,70,1
+212,2016,Mongolia,1,70,0
+213,2016,Jamaica,1,70,0
+214,2016,Zambia,1,70,0
+215,2017,Dem. Rep. Congo,9377,1,0
+216,2017,Iraq,6886,2,1
+217,2017,Syria,6557,3,1
+218,2017,Somalia,6130,4,1
+219,2017,Burma,5078,5,0
+220,2017,Ukraine,4264,6,0
+221,2017,Bhutan,3550,7,0
+222,2017,Iran,2577,8,1
+223,2017,Eritrea,1917,9,0
+224,2017,Afghanistan,1311,10,1
+225,2017,El Salvador,1124,11,0
+226,2017,Sudan,980,12,1
+227,2017,Ethiopia,766,13,0
+228,2017,Russia,377,14,0
+229,2017,Pakistan,346,15,1
+230,2017,Moldova,301,16,0
+231,2017,Burundi,291,17,0
+232,2017,Central African Republic,275,18,0
+233,2017,Colombia,233,19,0
+234,2017,Cuba,177,20,0
+235,2017,Republic of South Sudan,176,21,0
+236,2017,Honduras,104,22,0
+237,2017,Rwanda,104,22,0
+238,2017,Palestine,81,24,1
+239,2017,Belarus,73,25,0
+240,2017,Uganda,58,26,0
+241,2017,Armenia,57,27,0
+242,2017,Ivory Coast,51,28,0
+243,2017,Guatemala,50,29,0
+244,2017,Vietnam,46,30,0
+245,2017,Nepal,39,31,0
+246,2017,Kazakhstan,39,31,1
+247,2017,Uzbekistan,35,33,1
+248,2017,Kyrgyzstan,25,34,1
+249,2017,China,24,35,0
+250,2017,Senegal,22,36,1
+251,2017,Cameroon,21,37,0
+252,2017,Yemen,21,37,1
+253,2017,Azerbaijan,20,39,1
+254,2017,Sri Lanka (Ceylon),12,40,0
+255,2017,"Korea, North",12,40,0
+256,2017,Egypt,9,42,1
+257,2017,Latvia,8,43,0
+258,2017,Liberia,8,43,0
+259,2017,Bangladesh,7,45,1
+260,2017,Chad,7,45,1
+261,2017,Kenya,6,47,0
+262,2017,Mali,6,47,1
+263,2017,Kuwait,6,47,1
+264,2017,Gambia,5,50,1
+265,2017,Sierra Leone,5,50,1
+266,2017,Guinea,5,50,0
+267,2017,Jordan,5,50,1
+268,2017,Congo,5,50,0
+269,2017,Djibouti,4,55,1
+270,2017,Thailand,4,55,0
+271,2017,Cambodia,3,57,0
+272,2017,Libya,3,57,1
+273,2017,Ghana,3,57,0
+274,2017,Mongolia,3,57,0
+275,2017,Zimbabwe,2,61,0
+276,2017,India,2,61,0
+277,2017,Burkina Faso (UVolta),2,61,1
+278,2017,Morocco,2,61,1
+279,2017,Serbia,2,61,0
+280,2017,Nigeria,2,61,1
+281,2017,Indonesia,2,61,1
+282,2017,Tibet,2,61,0
+283,2017,Tunisia,2,61,1
+284,2017,Philippines,2,61,0
+285,2017,Sweden,1,71,0
+286,2017,Togo,1,71,0
+287,2017,Tanzania,1,71,0
+288,2017,Zambia,1,71,0
+289,2017,Botswana,1,71,0
+290,2017,Turkey,1,71,1
+291,2017,Oman,1,71,1
+292,2018,Dem. Rep. Congo,7878,1,0
+293,2018,Burma,3555,2,0
+294,2018,Ukraine,2635,3,0
+295,2018,Bhutan,2228,4,0
+296,2018,Eritrea,1269,5,0
+297,2018,Afghanistan,805,6,1
+298,2018,El Salvador,725,7,0
+299,2018,Pakistan,441,8,1
+300,2018,Russia,437,9,0
+301,2018,Ethiopia,376,10,0
+302,2018,Somalia,257,11,1
+303,2018,Moldova,207,12,0
+304,2018,Burundi,201,13,0
+305,2018,Belarus,181,14,0
+306,2018,Central African Republic,148,15,0
+307,2018,Iraq,140,16,1
+308,2018,Colombia,128,17,0
+309,2018,Rwanda,110,18,0
+310,2018,Vietnam,96,19,0
+311,2018,Sudan,76,20,1
+312,2018,Syria,62,21,1
+313,2018,Honduras,59,22,0
+314,2018,Armenia,58,23,0
+315,2018,Sri Lanka (Ceylon),56,24,0
+316,2018,Kazakhstan,47,25,1
+317,2018,Uganda,42,26,0
+318,2018,Guatemala,42,26,0
+319,2018,Iran,41,28,1
+320,2018,Uzbekistan,27,29,1
+321,2018,Cameroon,15,30,0
+322,2018,Senegal,14,31,1
+323,2018,Ivory Coast,14,31,0
+324,2018,Zimbabwe,13,33,0
+325,2018,Republic of South Sudan,13,33,0
+326,2018,Nepal,12,35,0
+327,2018,Kyrgyzstan,12,35,1
+328,2018,Guinea,10,37,0
+329,2018,China,6,38,0
+330,2018,Liberia,6,38,0
+331,2018,Turkmenistan,5,40,1
+332,2018,"Korea, North",5,40,0
+333,2018,New Zealand,5,40,0
+334,2018,Congo,5,40,0
+335,2018,Kenya,3,44,0
+336,2018,Yemen,2,45,1
+337,2018,Ghana,2,45,0
+338,2018,Niger,2,45,1
+339,2018,Bangladesh,2,45,1
+340,2018,Algeria,2,45,1
+341,2018,Azerbaijan,2,45,1
+342,2018,Jordan,1,51,1
+343,2018,India,1,51,0
+344,2018,Djibouti,1,51,1
+345,2018,Chad,1,51,1
+346,2018,South Africa,1,51,0
+347,2018,Nigeria,1,51,1
+348,2018,Kuwait,1,51,1
+349,2018,Saudi Arabia,1,51,1
+350,2018,Georgia,1,51,0
+351,2018,Jamaica,1,51,0
+352,2018,Angola,1,51,0
+353,2018,Philippines,1,51,0
+354,2018,Libya,1,51,1
+355,2018,Egypt,1,51,1

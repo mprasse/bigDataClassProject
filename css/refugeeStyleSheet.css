@@ -121,7 +121,8 @@ vertical-align: middle;
 
 
 #vis {
-  width: 1200px;
+  /* width: 1200px; */
+  width: 75%;
   height: 600px;
   clear: both;
   margin: 0 auto;
